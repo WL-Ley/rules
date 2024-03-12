@@ -8,4 +8,7 @@
 DOMAIN,api.hagakure.app.c-rayon.com,YuUKoiDays
 DOMAIN,cdn.app.c-rayon.com,YuUKoiDays
 DOMAIN,liyuu.api.app.c-rayon.com,YuUKoiDays
-# DOMAIN,app-measurement.com,YuUKoiDays
+DOMAIN,app-measurement.com,YuUKoiDays
+DOMAIN,cdn.app.c-rayon.com,YuUKoiDays
+
+
